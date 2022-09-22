@@ -27,3 +27,10 @@ header ul li:active {
 header ul li p {
     color: #390240;
 }
+
+@media (min-width: 1700px) {
+    header {
+        position: relative;
+        top: 0;
+    }
+}
