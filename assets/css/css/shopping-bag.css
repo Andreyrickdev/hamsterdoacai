@@ -12,6 +12,11 @@
     color: #390240;
 }
 
+.shopping-bag .price {
+    width: 100px;
+    text-align: center;
+}
+
 @media (min-width: 1700px) {
 
     .shopping-bag {
