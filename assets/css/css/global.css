@@ -11,3 +11,8 @@
 ul{
     list-style: none;
 }
+
+body {
+    height: 8000px;
+    background-color: #390240;
+}
