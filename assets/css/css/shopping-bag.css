@@ -11,3 +11,17 @@
     font-weight: bold;
     color: #390240;
 }
+
+@media (min-width: 1700px) {
+
+    .shopping-bag {
+        width: 800px;
+        justify-content: space-between;
+        padding: 5px 20px; 
+        cursor: pointer;
+        border-radius: 1.5px;
+        position: sticky;
+        top:0;
+    }
+
+}
