@@ -19,3 +19,7 @@ header ul li {
     text-align: center;
     font-size: 0.9rem;
 }
+
+header ul li:active {
+    background-color: #e0e0e0;
+}
