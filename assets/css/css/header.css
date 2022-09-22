@@ -23,3 +23,7 @@ header ul li {
 header ul li:active {
     background-color: #e0e0e0;
 }
+
+header ul li p {
+    color: #390240;
+}
