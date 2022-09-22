@@ -8,3 +8,14 @@ header {
 header ul {
     display: flex;
 }
+
+header ul li {
+    display: grid;
+    padding: 20px 10px;
+    width: 100%;
+    cursor: pointer;
+    place-items: center;
+    place-content: center;
+    text-align: center;
+    font-size: 0.9rem;
+}
