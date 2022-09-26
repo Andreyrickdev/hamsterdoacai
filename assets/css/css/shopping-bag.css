@@ -17,7 +17,7 @@
     text-align: center;
 }
 
-@media (min-width: 1700px) {
+@media (min-width: 1000px) {
 
     .shopping-bag {
         width: 800px;
