@@ -29,3 +29,7 @@
 .background a {
     text-decoration: underline;
 }
+
+.background h1 {
+    text-transform: uppercase;
+}
