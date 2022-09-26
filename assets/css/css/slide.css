@@ -25,3 +25,7 @@
 .background span, a {
     color: #8c52ff;
 }
+
+.background a {
+    text-decoration: underline;
+}
