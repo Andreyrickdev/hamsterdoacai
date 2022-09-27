@@ -35,4 +35,8 @@ function slidefun (n) {
     if (n > slides.length) {
         counter = 1;
     }
+
+    if (n < 1) {
+        
+    }
 }
