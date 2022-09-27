@@ -25,3 +25,7 @@ main ul li section {
 main ul li section p {
     margin-bottom: 20px;
 }
+
+main ul li img {
+    border-radius: 10px;
+}
