@@ -11,6 +11,7 @@
     text-transform: uppercase;
     font-weight: bold;
     color: #390240;
+    z-index:2;
 }
 
 .shopping-bag .price {
