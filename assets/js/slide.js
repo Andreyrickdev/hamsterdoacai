@@ -37,6 +37,6 @@ function slidefun (n) {
     }
 
     if (n < 1) {
-        
+        counter = slides.length;
     }
 }
