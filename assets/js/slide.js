@@ -24,4 +24,7 @@ function resetTimer () {
 function slidefun (n) {
 
     let i;
+    for (i = 0; i < dot.length; i++) {
+        
+    }
 }
