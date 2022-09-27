@@ -15,3 +15,7 @@ function currentSlide(n) {
     slidefun(counter);
     resetTimer();
 }
+
+function resetTimer () {
+    
+}
