@@ -39,4 +39,6 @@ function slidefun (n) {
     if (n < 1) {
         counter = slides.length;
     }
+
+    slides[counter - 1].style.display = "block";
 }
