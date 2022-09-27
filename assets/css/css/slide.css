@@ -55,3 +55,8 @@
     border: 3px solid #fff;
     cursor: pointer;
 }
+
+.dotsbox .dot:hover {
+    background-color: #fff;
+    transition: 0.3s;
+}
