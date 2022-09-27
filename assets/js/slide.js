@@ -17,5 +17,5 @@ function currentSlide(n) {
 }
 
 function resetTimer () {
-    
+    clearInterval(timer);
 }
