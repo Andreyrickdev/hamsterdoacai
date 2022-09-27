@@ -17,3 +17,7 @@ main ul li{
     border:1px solid rgb(207, 207, 207);
     cursor: pointer;
 }
+
+main ul li section {
+    padding: 10px;
+}
