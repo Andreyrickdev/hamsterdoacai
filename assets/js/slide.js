@@ -27,4 +27,8 @@ function slidefun (n) {
     for (i = 0; i < dot.length; i++) {
         slides[i].style.display = "none";
     }
+
+    for (i = 0; i < dot.length; i++) {
+        
+    }
 }
