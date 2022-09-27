@@ -18,6 +18,10 @@ main ul li{
     cursor: pointer;
 }
 
+main ul li:active {
+    border:1px solid #8c52ff;
+}
+
 main ul li section {
     padding: 10px;
 }
