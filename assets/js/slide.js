@@ -12,4 +12,5 @@ function autoSlide () {
 
 function currentSlide(n) {
     counter = n;
+    slidefun(counter);
 }
