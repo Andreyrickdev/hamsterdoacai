@@ -9,3 +9,7 @@ function autoSlide () {
     counter += 1;
     slidefun(counter);
 }
+
+function currentSlide(n) {
+    
+}
