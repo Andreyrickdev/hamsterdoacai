@@ -41,4 +41,5 @@ function slidefun (n) {
     }
 
     slides[counter - 1].style.display = "block";
+    dot[counter - 1].className += " active";
 }
