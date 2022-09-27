@@ -60,3 +60,7 @@
     background-color: #fff;
     transition: 0.3s;
 }
+
+.dotsbox .dot.active {
+    background-color: #fff;
+}
