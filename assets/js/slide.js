@@ -33,6 +33,6 @@ function slidefun (n) {
     }
 
     if (n > slides.length) {
-        
+        counter = 1;
     }
 }
