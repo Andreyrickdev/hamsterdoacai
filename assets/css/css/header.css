@@ -10,7 +10,7 @@ header ul {
     display: flex;
 }
 
-header ul li {
+header ul a {
     display: grid;
     padding: 20px 10px;
     width: 100%;
@@ -21,11 +21,11 @@ header ul li {
     font-size: 0.9rem;
 }
 
-header ul li:active {
+header ul a:active {
     background-color: #e0e0e0;
 }
 
-header ul li p {
+header ul li a {
     color: #390240;
 }
 
